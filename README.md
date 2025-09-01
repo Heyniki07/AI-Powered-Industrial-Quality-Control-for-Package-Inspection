@@ -90,4 +90,4 @@ The solution combines **image classification** and **text recognition** to autom
 
 
 
-## 📂 Project Structure
+
